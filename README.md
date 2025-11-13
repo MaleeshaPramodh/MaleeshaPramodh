@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maleesha Pramodh</h1>
 <h3 align="center">A passionate <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=ffff&size=18&center=true&vCenter=true&width=180&height=14&lines=Software+Engineer;Web+Developer;Designer"> from Sri Lanka</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MaleeshaPramodh&label=Profile%20views&color=0e75b6&style=flat" alt="MaleeshaPramodh" /> </p>
-</br>
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 - :trophy: Graduated with BSc(Hons) Software Engineering, Information Technology at Birmingham City University, UK.
