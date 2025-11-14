@@ -109,9 +109,23 @@
 </p>
 </br>
 
-<h3 align="center">Support</h3>
+<!-- <h3 align="center">Support</h3>
 <p align="center"><a href="https://www.buymeacoffee.com/MaleeshaPramodh">
-  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MaleeshaPramodh" /></a></p>
+  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="MaleeshaPramodh" /></a></p> -->
+  <h3 align="center">My Statistics</h3>
+<p align="center">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=MaleeshaPramodh&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MaleeshaPramodh&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=MaleeshaPramodh&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  </td>
+</tr>
+</table>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaleeshaPramodh&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
