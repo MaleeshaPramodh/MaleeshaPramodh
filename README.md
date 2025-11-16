@@ -130,3 +130,10 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MaleeshaPramodh&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph" />
 </p>
+</br>
+<h3 align="center">Ongoing Learning & Projects</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaleeshaPramodh&repo=hotel-booking-system&theme=dark" alt="MERN Stack"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=MaleeshaPramodh&repo=ecommerce-react&theme=dark" alt="E-commerce React"/> -->
+</p>
