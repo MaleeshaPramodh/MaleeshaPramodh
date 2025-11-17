@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on Hotel Booking System Project
 - 🌱 I’m currently learning Mern, Vite + React, Tailwind
 - 💬 Ask me about Java, PHP
-- 📫 Feel free to reach me out **maleesha.pramodh.mph@gmail.com**
-- :boom: You can visit [MY WEBSITE](https://google.com/).
+- 📫 Feel free to reach me out [Maleesha Pramodh](maleesha.pramodh.mph@gmail.com)
+- :boom: You can visit [My Website](https://google.com/)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
