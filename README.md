@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Mern, Vite + React, Tailwind
 - 💬 Ask me about Java, PHP
 - 📫 Feel free to reach me out **maleesha.pramodh.mph@gmail.com**
-- :boom: You can visit [My Website](https://google.com/)
+<!-- - :boom: You can visit [My Website](https://google.com/) -->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </br>
